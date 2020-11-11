@@ -1,0 +1,17 @@
+C:\Users\Тимур\source\repos\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+C:\Users\Тимур\source\repos\App2\App2\bin\Debug\netstandard2.0\App2.dll
+C:\Users\Тимур\source\repos\App2\App2\bin\Debug\netstandard2.0\ref\App2.dll
+C:\Users\Тимур\source\repos\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\App2.csprojAssemblyReference.cache
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\App2.dll
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\ref\App2.dll
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\App2.pdb
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\SensorsPage.xaml.g.cs
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\P116_Page.xaml.g.cs
+C:\Users\Тимур\source\repos\App2\App2\obj\Debug\netstandard2.0\tempSensorPage.xaml.g.cs

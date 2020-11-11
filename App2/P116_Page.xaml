@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.P116_Page">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Text="П116" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="1" BackgroundColor="Aqua">
+                    <Label  Text="Схема подключения до щита автоматики" FontSize="Medium" HorizontalOptions="Center" />
+                    
+                </Grid>
+                <Grid Grid.Row="2" BackgroundColor="Bisque">
+                    <Label Text="Описание СИ" FontSize="Medium" HorizontalOptions="Center" />
+                    
+                </Grid>
+                <Grid Grid.Row="3" BackgroundColor="Azure">
+                    <Label Text="Методика поверки" FontSize="Medium" HorizontalOptions="Center" />
+                    
+                </Grid>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

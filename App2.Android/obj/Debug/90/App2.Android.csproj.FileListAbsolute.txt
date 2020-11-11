@@ -1,0 +1,7 @@
+C:\Users\Тимур\source\repos\App2\App2.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Тимур\source\repos\App2\App2.Android\obj\Debug\90\build.props
+C:\Users\Тимур\source\repos\App2\App2.Android\obj\Debug\90\adb.props
+C:\Users\Тимур\source\repos\App2\App2.Android\obj\Debug\90\App2.Android.csprojAssemblyReference.cache
+C:\Users\Тимур\source\repos\App2\App2.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Тимур\source\repos\App2\App2.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Тимур\source\repos\App2\App2.Android\obj\Debug\90\res.flag

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.SensorsPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Text="Датчики" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="50"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="1" BackgroundColor="Aqua">
+
+                    <Image  Source="sensor1.jpg" VerticalOptions="Center"/>
+                    <Button   x:Name="p116" Clicked="p116_Clicked">
+                    </Button>
+                    <Label  Text="Датчик температуры торможения П-116М1" FontSize="Medium" HorizontalOptions="Center" />
+                </Grid>
+                <Grid Grid.Column="2" BackgroundColor="Bisque">
+                    <Image  Source="sensor2.jpg" VerticalOptions="Center"/>
+                    <Button  x:Name="tempSensor" Clicked="tempSensor_Clicked">
+                    </Button>
+                    <Label Text="Датчик температуры Тг перед дозатором" FontSize="Medium" HorizontalOptions="Center" />
+                </Grid>
+                <Grid Grid.Column="3" BackgroundColor="Azure">
+                    <Button  Text="Данные">
+                    </Button>
+                    <Label Text="Датчик ..." FontSize="Medium" HorizontalOptions="Center" />
+                </Grid>
+                <Grid Grid.Column="4" BackgroundColor="BlueViolet">
+                    <Button  Text="Данные">
+                    </Button>
+                    <Label Text="Датчик ..." FontSize="Medium" HorizontalOptions="Center" />
+                </Grid>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
